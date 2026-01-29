@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Sufina Sherin  
+##  I’m Sufina Sherin  👋 
 
 🎓 **BSc Computer Science Graduate**  
 💻 **Aspiring Python Full Stack Developer**  
